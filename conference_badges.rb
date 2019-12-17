@@ -2,4 +2,4 @@
 def badge_maker (Name)
 puts = "Hello, my name is #{name}" 
 end
-def badge_maker
+def batch_badge_creator(array)
