@@ -1,6 +1,5 @@
 # Write your code here.
-def
-badge_maker (Name)
+def badge_maker (Name)
 puts = "Hello, my name is #{name}" 
 batch_badge_creator [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
 batch_badge_creator.each do |speaker|
