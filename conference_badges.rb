@@ -9,5 +9,5 @@ def batch_badge_creator(array)
  speakers.push("Hello, my name is #{name}.")
 end
 
-return speakers 
+return speakers
 end 
